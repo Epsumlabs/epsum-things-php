@@ -4,8 +4,7 @@
     "keywords": ["EpsumThings", "Epsum","things"],
     "type": "package",
     "require": {
-      "php" : "^5.5 || ^7.0",
-        "curl": "^7.50.1"
+      "php" : "^5.5 || ^7.0"
     },
     "license": "MIT",
     "authors": [{
