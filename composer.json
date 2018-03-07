@@ -1,5 +1,5 @@
 {
-    "name": "epsumlabs/things",
+    "name": "epsumthings",
     "description": "A PHP-SDK for EpsumThings Platform",
     "keywords": ["EpsumThings", "Epsum","things"],
     "type": "package",
