@@ -1,0 +1,17 @@
+{
+    "name": "epsumlabs/things",
+    "description": "A PHP-SDK for EpsumThings Platform",
+    "keywords": ["EpsumThings", "Epsum","things"],
+    "type": "package",
+    "require": {
+      "php" : "^5.5 || ^7.0",
+        "curl": "^7.50.1"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "Epsum Labs Private Limited",
+        "email": "developers@epsumlabs.com"
+    }],
+    "version": "1.0.0",
+    "minimum-stability": "stable"
+}
