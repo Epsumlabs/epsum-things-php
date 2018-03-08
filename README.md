@@ -4,7 +4,7 @@ EpsumThings php sdk for developers and hobbyists alike for using EpsumThings IoT
 # Installation
 You can install the package using the composer package manager using the following command.
 ```
-composer require epsumlabs/epsumthings-php
+composer require epsumlabs/epsumthings-php:dev-master
 ```
 
 # Example Code 
