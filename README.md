@@ -12,11 +12,13 @@ composer require epsumlabs/epsumthings-php
 ```php
 <?php
 require("./vendor/epsumlabs/epsumthings-php/epsum_things.php");
-$obj=new account("user@domain.com","access_token","app_id");
+$obj=new account("user@domain.com","secret_key","app_id"); //secret_key and app_id can be found on EpsumThings app section of your EpsumThings account. 
 $things=new epsumthings();
 echo($things->user_profile($obj));
 ?>
 ```
 
 # About
-EpsumThings is an IoT platform developed at **Epsum Labs Private Limited** for people like you to taste the sweetness of IoT with minimal effort.
+EpsumThings (Beta) is an IoT platform developed at **Epsum Labs Private Limited** for people like you to taste the sweetness of IoT with minimal effort.
+
+Get registered at http://things.epsumlabs.com
