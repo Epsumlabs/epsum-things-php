@@ -1,4 +1,13 @@
 <?php
+/**
+ *
+ * @author Epsum Labs Private Limited
+ * This SDK is distributed under MIT License, the copy of which can be found on : https://opensource.org/licenses/MIT
+ *
+ *
+ * Copyright (c) 2018 Epsum Labs Private Limited
+ *
+ */
 class account{
   private $user_name;
   private $secret_key;
