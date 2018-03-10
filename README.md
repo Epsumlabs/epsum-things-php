@@ -21,4 +21,4 @@ echo($things->user_profile($obj));
 # About
 EpsumThings (Beta) is an IoT platform developed at **Epsum Labs Private Limited** for people like you to taste the sweetness of IoT with minimal effort.
 
-Get registered at http://things.epsumlabs.com
+Get registered at http://things.epsumlabs.com to explore the IoT platform.
